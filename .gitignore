@@ -1,0 +1,32 @@
+# Archivos Python compilados
+*.pyc
+__pycache__
+
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# Archivos de configuración
+*.env
+
+# Base de datos de Django
+db.sqlite3
+
+# Dependencias de Node.js (si las tienes en el backend también)
+node_modules/
+
+# Archivos temporales o de caché
+*.log
+
+# Dependencias de Node.js
+node_modules/
+
+# Archivos generados en producción
+build/
+
+# Archivos de configuración
+*.env
+
+# Archivos temporales o de caché
+*.log
