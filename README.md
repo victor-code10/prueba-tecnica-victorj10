@@ -58,10 +58,10 @@ También se podrán observar dos gráficas, una de barras y otra de anillos (cir
 Por otro lado, los usuarios generales contarán con su propia vista, en la cual verán el logo, titulo y descripción de la app. Visualizarán dos botones (botón 1 y 2) los cuales podrán presionar las veces que deseen.
 
 ## Cuentas de usuarios (Admin y usuarios generales)
-###Admin
+### Admin
 Username: Jose, Password: admin123
 
-###Usuarios regulares
+### Usuarios regulares
 1. Username: David, Password: avida800
 2. Username: Rosa, Password: linda231
 3. Username: Laura, Password: ramirez22
