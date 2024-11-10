@@ -31,7 +31,6 @@ Para poder ejecutar este proyecto primero debes tener los siguientes programas i
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/victor-code10/prueba-tecnica-victorj10.git
-   cd gestion-actividad-usuarios/pruebatecnica
    
 2. Instalar las dependencias mencionadas
 
